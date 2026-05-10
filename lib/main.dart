@@ -50,7 +50,7 @@ class MySocApp extends StatelessWidget {
   }
 }
 
-// ─── Background ─────────────────────────────────────────────────────────────
+//Background 
 
 
 class _AuthBackground extends StatelessWidget {
